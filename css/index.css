@@ -1,0 +1,33 @@
+body {
+  background-color: blueviolet;
+}
+
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+#login-form-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  border: 40px solid black;
+}
+
+.forgot-password {
+  text-align: right;
+  width: 95%;
+  margin-bottom: 10px;
+}
+
+.input-btn {
+  width: 80%;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: blanchedalmond;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
